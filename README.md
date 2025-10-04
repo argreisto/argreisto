@@ -1,17 +1,9 @@
-## Perkenalan
+## About Me
 <h1 align="center"> Hai, saya <span style="color:#0078D7;">Argreisto</span></h1>
 <p align="center">
   Mahasiswa Teknik Informatika Universitas Pamulang  
   <br/>Kelas <b>03TPLP023</b> – Semester 3  
 </p>
-
----
-
-## Tentang Saya
-
-Saat ini saya sedang belajar membuat website menggunakan **HTML** dan **CSS** untuk membangun struktur dan tampilan web.  
-Selain itu, saya juga mempelajari bahasa pemrograman lain seperti **Python** dan **JavaScript**.  
-Web ini adalah hasil latihan sederhana untuk memperkenalkan diri saya secara online. 🌱  
 
 ---
 
