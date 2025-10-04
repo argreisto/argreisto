@@ -1,59 +1,81 @@
 ## About Me
-<h1 align="center"> Hai, saya <span style="color:#0078D7;">Argreisto</span></h1>
+<h1 align="center">Hai, saya <span style="color:#4CAF50;">Argreisto 👋</span></h1>
 <p align="center">
-  Mahasiswa Teknik Informatika Universitas Pamulang  
-  <br/>Kelas <b>03TPLP023</b> – Semester 3  
+  <strong>Mahasiswa Informatika | Programmer | Web Developer</strong>
+  <p> <p align="center">
+    Universitas Pamulang - Kelas 03TPLP023<br/>
+</p>
+
+---
+
+## 🧍‍♂️ Profile
+
+<p align="center">
+  <img src="profile.png" alt="Foto Argreisto" width="180" style="border-radius:50%; box-shadow:0 0 10px rgba(0,0,0,0.2);"/>
+</p>
+
+<p align="center">
+  <p>
+  Saya adalah mahasiswa yang sedang mengembangkan kemampuan dalam bidang <b>Web Development</b>, 
+  serta mempelajari <b>C++</b>, <b>Python</b> dan <b>JavaScript</b> untuk memperluas pemahaman di dunia pemrograman modern.
 </p>
 
 ---
 
 ## 🚀 Projek Sederhana
 
-| 💡 Projek | Deskripsi |
-|-----------|------------|
-| 💻 **Website Perkenalan Diri** | Web portofolio pribadi menggunakan HTML, CSS, dan JavaScript |
-| 🎨 **Desain Antarmuka di Canva** | Mendesain layout & tampilan visual web |
-| 🔧 **Belajar Git & GitHub Dasar** | Latihan version control dan kolaborasi di GitHub |
+<table>
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
+  <b>Website Perkenalan Diri</b>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>
+  <b>Membuat Program C++ untuk Tugas Kuliah</b>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
+  <b>Belajar Git & GitHub Dasar</b>
+</td>
+</tr>
+</table>
 
 ---
 
-## 👨‍💻 Profil Saya
+## 🧩 Keahlian
 
-<p align="center">
-  <img src="profile.png" alt="Foto Argreisto" width="150" style="border-radius:50%;"/>
-</p>
-
-<h3 align="center">Argreisto Daniel Krismiawan</h3>
-<p align="center">
-  Mahasiswa | Web Developer | Programmer
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>Java</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>C++</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Keahlian
+## 🎯 Bidang yang Digemari
 
-| Bahasa / Tools | Bidang yang Digemari |
-|----------------|----------------------|
-| ☕ Java & C++ | 💻 Web Development |
-| 🐍 Python (Data Science & AI) | 🤖 Machine Learning & AI |
-| 🌐 HTML & CSS | 🗃️ Database & Backend |
-| ⚡ JavaScript | 🎨 UI/UX Design |
+- 🌐 Web Development  
+- 🤖 Machine Learning & Artificial Intelligence  
+- 🗃️ Database & Backend Development  
+- 🎨 UI/UX Design
 
 ---
 
 ## 📫 Kontak & Link
 
-| Platform | Info |
-|-----------|------|
-| 📧 **Email** | [argreistod@gmail.com](mailto:argreistod@gmail.com) |
-| 🐙 **GitHub** | [github.com/argreisto](https://github.com/argreisto) |
-| 🌐 **Website** | [https://argreisto.github.io/](https://argreisto.github.io/) |
+| Media | Link |
+|-------|------|
+| ✉️ Email | [argreistod@gmail.com](mailto:argreistod@gmail.com) |
+| 🧭 GitHub | [github.com/argreisto](https://github.com/argreisto) |
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=argreisto&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=argreisto&show_icons=true&theme=tokyonight" alt="GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argreisto&layout=compact&theme=tokyonight" alt="Top Languages" width="335"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=argreisto&show_icons=true&theme=tokyonight" alt="Argreisto's GitHub stats" />
 </p>
