@@ -1,4 +1,4 @@
-## About me
+## Perkenalan
 <h1 align="center"> Hai, saya <span style="color:#0078D7;">Argreisto</span></h1>
 <p align="center">
   Mahasiswa Teknik Informatika Universitas Pamulang  
