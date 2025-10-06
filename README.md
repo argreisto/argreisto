@@ -95,7 +95,7 @@ You hear a faint whisper from your terminal:
   <img src="https://raw.githubusercontent.com/argreisto/argreisto/main/giphy.gif" width="180" alt="Multo the Ghost 👻" />
 </p>
 
-Oh no... even the Multo couldn’t handle *your* runtime error.  
+Oh no... even the Multo couldn’t handle your **runtime error**.  
 The bug is too powerful... it’s spreading through the code.  
-Better fix it before it haunts your next commit.
+Better **fix it before it haunts** your next commit.
 </details>
