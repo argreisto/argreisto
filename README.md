@@ -82,13 +82,7 @@ I enjoy learning by building small projects, solving problems, and improving my 
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## mini ghost
+## Mini Multo
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/argreisto/argreisto/main/giphy.gif" width="180" alt="Multo the Ghost 👻" />
