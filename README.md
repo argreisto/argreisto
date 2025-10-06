@@ -1,5 +1,5 @@
 ## About Me
-<h1 align="center">Hai, saya <span style="color:#4CAF50;">Argreisto 👋</span></h1>
+<h1 align="center">Hai, I'm <span style="color:#4CAF50;">Argreisto 👋</span></h1>
 <p align="center">
   <strong>Mahasiswa Informatika | Programmer | Technology Enthusiast</strong>
   <p> <p align="center">
