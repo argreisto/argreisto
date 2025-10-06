@@ -90,10 +90,6 @@ I enjoy learning by building small projects, solving problems, and improving my 
 
 ## mini ghost
 
-<h3 align="center">👻 Multo si Hantu Baik</h3>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/argreisto/argreisto/main/multo.gif" width="180" alt="Multo the Ghost" />
+  <img src="https://raw.githubusercontent.com/argreisto/argreisto/main/giphy.gif" width="180" alt="Multo the Ghost 👻" />
 </p>
-
-<p align="center">🌙 Melayang-layang mencari commit terbaru...</p>
