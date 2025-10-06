@@ -1,9 +1,9 @@
 ## About Me
 <h1 align="center">Hai, I'm <span style="color:#4CAF50;">Argreisto 👋</span></h1>
 <p align="center">
-  <strong>Mahasiswa Informatika | Programmer | Technology Enthusiast</strong>
+  <strong> Informatics Student | Programmer | Technology Enthusiast</strong>
   <p> <p align="center">
-    Universitas Pamulang - Kelas 03TPLP023<br/>
+    University of Pamulang - Class 03TPLP023<br/>
 </p>
 
 ---
