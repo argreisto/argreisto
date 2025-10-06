@@ -1,7 +1,7 @@
 ## About Me
 <h1 align="center">Hai, saya <span style="color:#4CAF50;">Argreisto 👋</span></h1>
 <p align="center">
-  <strong>Mahasiswa Informatika | Programmer | Web Developer</strong>
+  <strong>Mahasiswa Informatika | Programmer | Technology Enthusiast</strong>
   <p> <p align="center">
     Universitas Pamulang - Kelas 03TPLP023<br/>
 </p>
@@ -16,58 +16,58 @@
 
 <p align="center">
   <p>
-  Saya adalah mahasiswa yang sedang mengembangkan kemampuan dalam bidang <b>Web Development</b>, 
-  serta mempelajari <b>C++</b>, <b>Python</b> dan <b>JavaScript</b> untuk memperluas pemahaman di dunia pemrograman modern.
+  I’m currently focusing on C++, Python, HTML, and CSS to build a strong foundation in software and web development.
+I also explore Java for object-oriented programming and have an interest in UI/UX Design to create better user experiences.
+
+I enjoy learning by building small projects, solving problems, and improving my coding skills step by step.
 </p>
 
 ---
 
-## 🚀 Projek Sederhana
+## 🚀 Simple Project
 
 <table>
 <tr>
 <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
-  <b>Website Perkenalan Diri</b>
+  <b>Self-Introduction Website</b>
 </td>
 <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>
-  <b>Membuat Program C++ untuk Tugas Kuliah</b>
+  <b>Create a C++ Programs For a College Assignment</b>
 </td>
 <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
-  <b>Belajar Git & GitHub Dasar</b>
+  <b>Record & Manage Code Changes Efficiently</b>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🧩 Keahlian
+## 🧩 Skills
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>Java</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>C++</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
 </tr>
 </table>
 
 ---
 
-## 🎯 Bidang yang Digemari
+## 🎯 Areas I'm Interested In
 
+- 🌐 Software Development  
 - 🌐 Web Development  
-- 🤖 Machine Learning & Artificial Intelligence  
-- 🗃️ Database & Backend Development  
+- 🤖 Python Programming
 - 🎨 UI/UX Design
 
 ---
 
-## 📫 Kontak & Link
+## 📫 Contact & Links
 
 | Media | Link |
 |-------|------|
@@ -79,3 +79,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=argreisto&show_icons=true&theme=tokyonight" alt="Argreisto's GitHub stats" />
 </p>
+
+---
+## 👻 Mini Game: Multo in the Machine
+
+Late at night, while coding in C++ and Python...  
+You suddenly hear a whisper:  
+> "Segmentation fauuult..." 😨  
+
+<details>
+<summary>💡 Click to continue...</summary>
+
+Haha, relax! It’s just a *runtime error*, not a real ghost.  
+Even multos get bugs sometimes 👾  
+Keep coding and don’t let the ghost of errors haunt you! 💻  
+</details>
