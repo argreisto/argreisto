@@ -1,5 +1,5 @@
 ## About Me
-<h1 align="center">Hai, I'm <span style="color:#4CAF50;">Argreisto 👋</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Argreisto 👋</span></h1>
 <p align="center">
   <strong> Informatics Student | Programmer | Technology Enthusiast</strong>
   <p> <p align="center">
@@ -84,8 +84,8 @@ I enjoy learning by building small projects, solving problems, and improving my 
 
 ## 👻 Mini Game: Multo in the Machine
 
-Late at night, while coding C++ and Python...  
-You hear a whisper:  
+Late at night, while coding in C++ and Python...  
+You hear a faint whisper from your terminal:  
 > "Segmentation fauuult..." 😨  
 
 <details>
@@ -95,6 +95,7 @@ You hear a whisper:
   <img src="https://raw.githubusercontent.com/argreisto/argreisto/main/giphy.gif" width="180" alt="Multo the Ghost 👻" />
 </p>
 
-Haha, relax! It’s just a **runtime error**, not a real ghost.  
-Even multos get bugs sometimes 👾  
+Oh no... even the Multo couldn’t handle *your* runtime error.  
+The bug is too powerful... it’s spreading through the code.  
+Better fix it before it haunts your next commit.
 </details>
