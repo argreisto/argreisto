@@ -91,7 +91,9 @@ I enjoy learning by building small projects, solving problems, and improving my 
 ## mini ghost
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150" alt="Ghost Animation">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150" alt="Ghost Animation">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150" alt="Ghost Animation">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="120" alt="Ghost">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1e3c72,100:2a5298&section=footer" />
 </p>
