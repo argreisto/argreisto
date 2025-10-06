@@ -81,31 +81,23 @@ I enjoy learning by building small projects, solving problems, and improving my 
 </p>
 
 ---
+## 👻 Mini Game: Multo Snake
 
-## 👻 Mini Game: Ghost in the Code
+The **Multo** is hungry... and it wants to eat bugs from your code! 🐛  
+Guide it carefully — don’t let it bite its own tail!
 
-Something strange is happening in your code... 😨  
-A ghost is hiding somewhere inside these lines — can you find it?
-
-<details>
-<summary>💡 Click to reveal the ghost!</summary>
-
-🎃 *BOO!* The ghost was hiding in line *4️⃣* —  
-It just wanted to learn how to code too! 💻  
-Even ghosts need debugging sometimes 👾  
-</details>
----
-
-## 👻 Mini Game: Multo in the Machine
-
-Late at night, while coding in C++ and Python...  
-You suddenly hear a whisper:  
-> "Segmentation fauuult..." 😨  
+🎮 Controls (imagination only):  
+- ⬆️ Move Up  
+- ⬇️ Move Down  
+- ⬅️ Move Left  
+- ➡️ Move Right  
 
 <details>
-<summary>💡 Click to continue...</summary>
+<summary>💡 Click to start the Multo’s journey!</summary>
 
-Haha, relax! It’s just a *runtime error*, not a real ghost.  
-Even multos get bugs sometimes 👾  
-Keep coding and don’t let the ghost of errors haunt you! 💻  
+👻 The **Multo** slithered across the screen...  
+It ate a bug 🐛 and said:  
+> “No more syntax errors tonight!” 😌  
+
+Congratulations — you survived the **Multo Snake**!
 </details>
