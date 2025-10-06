@@ -97,3 +97,4 @@ I enjoy learning by building small projects, solving problems, and improving my 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1e3c72,100:2a5298&section=footer" />
 </p>
+---
