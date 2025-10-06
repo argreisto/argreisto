@@ -85,3 +85,9 @@ I enjoy learning by building small projects, solving problems, and improving my 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150" alt="Ghost Animation">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150" alt="Ghost Animation">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150" alt="Ghost Animation">
+</p>
