@@ -82,8 +82,19 @@ I enjoy learning by building small projects, solving problems, and improving my 
 
 ---
 
-## Mini Multo
+## 👻 Mini Game: Multo in the Machine
+
+Late at night, while coding C++ and Python...  
+You hear a whisper:  
+> "Segmentation fauuult..." 😨  
+
+<details>
+<summary>💡 Click to continue...</summary>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/argreisto/argreisto/main/giphy.gif" width="180" alt="Multo the Ghost 👻" />
 </p>
+
+Haha, relax! It’s just a **runtime error**, not a real ghost.  
+Even multos get bugs sometimes 👾  
+</details>
