@@ -81,23 +81,31 @@ I enjoy learning by building small projects, solving problems, and improving my 
 </p>
 
 ---
-## 👻 Mini Game: Multo Snake
 
-The **Multo** is hungry... and it wants to eat bugs from your code! 🐛  
-Guide it carefully — don’t let it bite its own tail!
+# 👻 Dikejar Multo Game
 
-🎮 Controls (imagination only):  
-- ⬆️ Move Up  
-- ⬇️ Move Down  
-- ⬅️ Move Left  
-- ➡️ Move Right  
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-Python%20%26%20Fear-red)
 
-<details>
-<summary>💡 Click to start the Multo’s journey!</summary>
+> 😱 Game sederhana di mana kamu harus **lari dari multo (hantu)**!  
+> Dibuat dengan Python dan modul `turtle`, tanpa library tambahan.
 
-👻 The **Multo** slithered across the screen...  
-It ate a bug 🐛 and said:  
-> “No more syntax errors tonight!” 😌  
+---
 
-Congratulations — you survived the **Multo Snake**!
-</details>
+## 🎮 Deskripsi
+
+Kamu mengendalikan kotak hijau 🟩 (pemain) di layar.  
+Multo (lingkaran putih 👻) akan **mengejar kamu terus menerus**.  
+Semakin lama kamu bertahan, semakin tinggi skor kamu.  
+Jika tertangkap, *Game Over!* 💀
+
+---
+
+## 🕹️ Cara Main
+
+1. Pastikan sudah punya **Python 3.8+**
+2. Simpan file berikut sebagai `multo.py`
+3. Jalankan:
+   ```bash
+   python multo.py
