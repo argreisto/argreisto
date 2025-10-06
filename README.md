@@ -82,30 +82,6 @@ I enjoy learning by building small projects, solving problems, and improving my 
 
 ---
 
-# 👻 Dikejar Multo Game
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-Python%20%26%20Fear-red)
-
-> 😱 Game sederhana di mana kamu harus **lari dari multo (hantu)**!  
-> Dibuat dengan Python dan modul `turtle`, tanpa library tambahan.
-
----
-
-## 🎮 Deskripsi
-
-Kamu mengendalikan kotak hijau 🟩 (pemain) di layar.  
-Multo (lingkaran putih 👻) akan **mengejar kamu terus menerus**.  
-Semakin lama kamu bertahan, semakin tinggi skor kamu.  
-Jika tertangkap, *Game Over!* 💀
-
----
-
-## 🕹️ Cara Main
-
-1. Pastikan sudah punya **Python 3.8+**
-2. Simpan file berikut sebagai `multo.py`
-3. Jalankan:
-   ```bash
-   python multo.py
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
